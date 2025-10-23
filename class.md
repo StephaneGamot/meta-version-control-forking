@@ -1,4 +1,13 @@
-First Name: Stéphane
-Location: Belgium Hal
-Course Name : Certification: Create a Repository with Forking
-
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
